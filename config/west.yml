@@ -12,7 +12,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: nice-view-raccoon #new entry
-      remote: ChengWeiHeng #new entry
+      remote: chengweiheng #new entry
       revision: main #new entry
   self:
     path: config
